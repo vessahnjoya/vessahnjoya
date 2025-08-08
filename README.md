@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @vessahnjoya
+- Fell in love with logic
+- Might push stuff sometimes
+- github pages creeper
 
 
 <!---
