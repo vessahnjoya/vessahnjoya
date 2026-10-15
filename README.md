@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @vessahnjoya
-- Fell in love with logic
-- Might push stuff sometimes
-- github pages creeper
+- 👋 Hi, I’m @louis
+- Logic x Cryptography x Quantum computing
 
 
 <!---
